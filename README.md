@@ -78,7 +78,4 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 
 
 <<<<<<< HEAD
-## modify modify modify 
-=======
-## modify modify modify modify modify modify modify 
->>>>>>> a
+## modify 
